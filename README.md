@@ -1,6 +1,6 @@
 # EREBUS — Creative Digital Studio Landing Page
 
-![Erebus Preview](./screenshots/preview.png)
+![Erebus Preview](./screenshots/wwwwwwwwwwwwwwwwwwwwww.png)
 
 A cinematic, dark editorial landing page for a fictional creative studio. Built with pure **HTML, CSS, and Vanilla JavaScript** — zero dependencies, zero frameworks, opens instantly in any browser.
 
