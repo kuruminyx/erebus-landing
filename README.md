@@ -6,7 +6,7 @@ A cinematic, dark editorial landing page for a fictional creative studio. Built 
 
 ## ✦ Live Demo
 
-**[View Live →](https://yourusername.github.io/erebus-landing](https://kuruminyx.github.io/erebus-landing/))**
+**[View Live →](https://kuruminyx.github.io/erebus-landing/)**
 
 ---
 
